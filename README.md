@@ -44,5 +44,5 @@ about the data regarding countries and competitors such as the following:
 <br>
 <br>
 
-<p>Alternatively, a PowerBI dashboard was also created in PowerBI Desktop, but in this case we do not have an interactive online dashboard option for free users:</p>
-<img src="https://i.imgur.com/ZQh93Ry.png">
+<p>Alternatively, a PowerBI report was also created in PowerBI Desktop, but in this case we do not have an interactive online dashboard option for free users without an organization-provided email:</p>
+<img src="https://i.imgur.com/dezAdjP.png">
